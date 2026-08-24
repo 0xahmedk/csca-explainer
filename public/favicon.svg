@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    rect { fill: #14141a }
+    .hit { opacity: 0.35 }
+    @media (prefers-color-scheme: dark) { rect { fill: #ececef } }
+  </style>
+  <rect x="4" y="4" width="24" height="4" rx="1"/>
+  <rect class="hit" x="4" y="11" width="24" height="4" rx="1"/>
+  <rect x="4" y="18" width="24" height="4" rx="1"/>
+  <rect class="hit" x="4" y="25" width="24" height="4" rx="1"/>
+</svg>
