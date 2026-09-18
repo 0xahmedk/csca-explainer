@@ -24,7 +24,7 @@ export function Footer() {
         <li>
           <a href={DETAILS.proposalPdf}>
             <DownloadIcon />
-            Full written proposal (PDF)
+            Pilot Paper Draft (PDF)
           </a>
         </li>
         <li>
